@@ -8,10 +8,18 @@
       "puesto" : "Manager HR Latam"
     },
     "Carlos" : {
+     "Descripcion" : "Soy trabajador",
       "Edad" : 40,
       "Nombre" : "Carlos Ñoco",
       "imagen" : "https://upload.wikimedia.org/wikipedia/commons/b/bb/SL_Colombo_asv2020-01_img10_National_Museum.jpg",
       "puesto" : "Indexer"
+    },
+    "Andres" : {
+      "Descripcion" : "Soy alegre",
+      "Edad" : 21,
+      "Nombre" : "Andres Gutierrez",
+      "imagen" : "https://upload.wikimedia.org/wikipedia/commons/b/be/Perfil-Berna.jpg",
+      "puesto" : "Indexerr"
     }
   }
 }
