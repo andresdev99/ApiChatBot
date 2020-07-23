@@ -1,0 +1,15 @@
+{
+  "Personas" : {
+    "Ana" : {
+      "Descripcion" : "una persona carismatica",
+      "Edad" : 35,
+      "Nombre" : "Ana Papaterra",
+      "imagen" : "https://upload.wikimedia.org/wikipedia/commons/b/be/Perfil-Berna.jpg",
+      "puesto" : "Manager HR Latam"
+    },
+    "Carlos" : {
+      "Edad" : 40,
+      "Nombre" : "Carlos Ñoco"
+    }
+  }
+}
