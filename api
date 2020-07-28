@@ -23,13 +23,13 @@
   },
   "diego" : {
     "nombre" : "Diego",
-    "descripcion" : "Hola, Soy diego y soy Team Leader de indexación.",
+    "descripcion" : "Hola, Soy Diego y soy Team Leader de indexación.",
     "nota" : 94.12,
     "url" : "http"
   },
   "rudy" : {
     "nombre" : "Rudy",
-    "descripcion" : "Hola, Soy diego y soy Team Leader de indexación.",
+    "descripcion" : "Hola, Soy Rudy y soy Team Leader de indexación.",
     "nota" : 90.91,
     "url" : "http"
   },
