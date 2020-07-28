@@ -2,47 +2,47 @@
   "ana" : {
     "nombre" : "Ana Papaterra",
     "descripcion" : "Hola,Soy Ana y soy HR Manager Latam.",
-    "url" : "http"
+    "url" : "https://i.ibb.co/5kB3DMW/ana.png"
   },
   "andres" : {
    "nombre" : "Andres Gutierrez",
     "descripcion" : "Hola, Soy Andres y soy del equipo de indexación",
-    "url" : "http"
+    "url" : "https://i.ibb.co/vv7mmKx/photo-male.png"
   },
   "bryan" : {
     "nombre" : "Bryan Velez",
     "descripcion" : "Hola, Soy Bryan y soy del equipo de indexación",
     "nota" : 89.74,
-    "url" : "http"
+    "url" : "https://i.ibb.co/B4H67Tp/bryan.png"
   },
   "daniel" : {
   "nombre" : "Daniel",
     "descripcion" : "Hola, Soy Daniel y soy Team Leader de indexación.",
     "nota" : 100,
-    "url" : "http"
+    "url" : "https://i.ibb.co/1XrkntF/daniel.png"
   },
   "diego" : {
     "nombre" : "Diego",
     "descripcion" : "Hola, Soy Diego y soy Team Leader de indexación.",
     "nota" : 94.12,
-    "url" : "http"
+    "url" : "https://i.ibb.co/cQ59WLW/diego.png"
   },
   "rudy" : {
     "nombre" : "Rudy",
     "descripcion" : "Hola, Soy Rudy y soy Team Leader de indexación.",
     "nota" : 90.91,
-    "url" : "http"
+    "url" : "https://i.ibb.co/BKH4tvL/250-0-4.png"
   },
   "sara" : {
   "nombre" : "Sara",
     "descripcion" : "Hola, Soy Sara y soy Team Leader de indexación.",
     "nota" : 92.86,
-    "url" : "http"
+    "url" : "https://i.ibb.co/cvyLy48/sara.png"
   },
   "yamel" : {
   "nombre" : "Yamel",
     "descripcion" : "Hola, Soy Yamel y soy Team Leader de indexación.",
     "nota" : 100,
-    "url" : "http"
+    "url" : "https://i.ibb.co/K7hBkm1/249-0-4.png"
   }
 }
