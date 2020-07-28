@@ -1,25 +1,40 @@
 {
-  "Personas" : {
-    "Ana" : {
-      "Descripcion" : "una persona carismatica",
-      "Edad" : 35,
-      "Nombre" : "Ana Papaterra",
-      "imagen" : "https://upload.wikimedia.org/wikipedia/commons/b/be/Perfil-Berna.jpg",
-      "puesto" : "Manager HR Latam"
-    },
-    "Carlos" : {
-     "Descripcion" : "Soy trabajador",
-      "Edad" : 40,
-      "Nombre" : "Carlos Ñoco",
-      "imagen" : "https://upload.wikimedia.org/wikipedia/commons/b/bb/SL_Colombo_asv2020-01_img10_National_Museum.jpg",
-      "puesto" : "Indexer"
-    },
-    "Andres" : {
-      "Descripcion" : "Soy alegre",
-      "Edad" : 21,
-      "Nombre" : "Andres Gutierrez",
-      "imagen" : "https://upload.wikimedia.org/wikipedia/commons/b/be/Perfil-Berna.jpg",
-      "puesto" : "Indexerr"
-    }
+  "ana" : {
+    "descripcion" : "Hola,Soy Ana y soy HR Manager Latam.",
+    "url" : "http"
+  },
+  "andres" : {
+    "descripcion" : "Hola, Soy Andres y soy del equipo de indexación",
+    "url" : "http"
+  },
+  "bryan" : {
+    "descripcion" : "Hola, Soy Bryan y soy del equipo de indexación",
+    "nota" : 89.74,
+    "url" : "http"
+  },
+  "daniel" : {
+    "descripcion" : "Hola, Soy Daniel y soy Team Leader de indexación.",
+    "nota" : 100,
+    "url" : "http"
+  },
+  "diego" : {
+    "descripcion" : "Hola, Soy diego y soy Team Leader de indexación.",
+    "nota" : 94.12,
+    "url" : "http"
+  },
+  "rudy" : {
+    "descripcion" : "Hola, Soy diego y soy Team Leader de indexación.",
+    "nota" : 90.91,
+    "url" : "http"
+  },
+  "sara" : {
+    "descripcion" : "Hola, Soy Sara y soy Team Leader de indexación.",
+    "nota" : 92.86,
+    "url" : "http"
+  },
+  "yamel" : {
+    "descripcion" : "Hola, Soy Yamel y soy Team Leader de indexación.",
+    "nota" : 100,
+    "url" : "http"
   }
 }
