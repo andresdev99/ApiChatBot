@@ -1,38 +1,46 @@
 {
   "ana" : {
+    "nombre" : "Ana Papaterra",
     "descripcion" : "Hola,Soy Ana y soy HR Manager Latam.",
     "url" : "http"
   },
   "andres" : {
+   "nombre" : "Andres Gutierrez",
     "descripcion" : "Hola, Soy Andres y soy del equipo de indexación",
     "url" : "http"
   },
   "bryan" : {
+    "nombre" : "Bryan Velez",
     "descripcion" : "Hola, Soy Bryan y soy del equipo de indexación",
     "nota" : 89.74,
     "url" : "http"
   },
   "daniel" : {
+  "nombre" : "Daniel",
     "descripcion" : "Hola, Soy Daniel y soy Team Leader de indexación.",
     "nota" : 100,
     "url" : "http"
   },
   "diego" : {
+    "nombre" : "Diego",
     "descripcion" : "Hola, Soy diego y soy Team Leader de indexación.",
     "nota" : 94.12,
     "url" : "http"
   },
   "rudy" : {
+    "nombre" : "Rudy",
     "descripcion" : "Hola, Soy diego y soy Team Leader de indexación.",
     "nota" : 90.91,
     "url" : "http"
   },
   "sara" : {
+  "nombre" : "Sara",
     "descripcion" : "Hola, Soy Sara y soy Team Leader de indexación.",
     "nota" : 92.86,
     "url" : "http"
   },
   "yamel" : {
+  "nombre" : "Yamel",
     "descripcion" : "Hola, Soy Yamel y soy Team Leader de indexación.",
     "nota" : 100,
     "url" : "http"
